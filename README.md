@@ -30,11 +30,10 @@ Dengan menganalisis faktor-faktor ini, model ini bertujuan untuk memberikan pred
 ---
 
 ## Conclusion
-<p style="text-align: justify;">
+
 **EDA**
 
 Berdasarkan EDA, diantara kedua aplikasi ride-hailing Uber memiliki penggunaan yang lebih banyak dibandingkan dengan Lyft. Orang-orang lebih banyak memesan aplikasi ride-hailing pada jam 11 dan 12 malam. Temperatur rata-ratanya adalah 39°F atau apabila dikonversikan sekitar 3.98°C. Ini dikarenakan dataset diambil pada bulan November dan Desember yang mana ini adalah musim dingin di Kota New York. Namun, pada dataset cuaca ini tidak berkorelasi terhadap harga aplikasi ride-hailing. Yang menentukan naik-turunnya harga adalah jarak, surge multiplier, dan jenis kendaraan. Contohnya, apabila jarak yang ditempuh semakin tinggi maka semakin tinggi juga harganya.
-</p>
 
 **Model Evaluation**
 
