@@ -1,4 +1,4 @@
-# # **Uber vs. Lyft** : Linear Regression Model 
+# **Uber vs. Lyft** : Linear Regression Model 
 
 By [Dito Wicaksana P.](https://github.com/ditoowp) | Data Resource: [Kaggle](https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma)
 
