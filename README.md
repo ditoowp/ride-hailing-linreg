@@ -3,7 +3,7 @@
 By [Dito Wicaksana P.](https://github.com/ditoowp) | Data Resource: [Kaggle](https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma)
 
 <div style="text-align: center;">
-    <img src="https://ibb.co.com/LhZPkBMR" alt="California suburbs">
+    <img src="https://i.postimg.cc/90030wtd/Untitled-design.png" alt="Uber vs. Lyft Analysis">
 </div>
 
 ---
